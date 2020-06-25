@@ -54,7 +54,7 @@
     "addons-linter": "1.3.1",
     "babel-polyfill": "6.26.0",
     "babel-runtime": "6.26.0",
-    "bunyan": "1.8.12",
+    "bunyan": "1.8.13",
     "camelcase": "4.1.0",
     "debounce": "1.1.0",
     "decamelize": "2.0.0",
